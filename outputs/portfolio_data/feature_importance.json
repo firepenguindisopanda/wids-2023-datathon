@@ -1,0 +1,86 @@
+{
+  "features": [
+    {
+      "name": "nmme0-prate-34w__gfdl0",
+      "importance": 4959.0
+    },
+    {
+      "name": "nmme0-prate-34w__ccsm30",
+      "importance": 4403.0
+    },
+    {
+      "name": "nmme0-prate-34w__cfsv20",
+      "importance": 4387.0
+    },
+    {
+      "name": "elev_x_nmme",
+      "importance": 3830.0
+    },
+    {
+      "name": "nmme-prate-34w__gfdl",
+      "importance": 3345.0
+    },
+    {
+      "name": "nmme-prate-34w__ccsm3",
+      "importance": 2936.0
+    },
+    {
+      "name": "contest-prwtr-eatm-14d__prwtr",
+      "importance": 2374.0
+    },
+    {
+      "name": "nmme0-tmp2m-34w__gfdl0",
+      "importance": 2313.0
+    },
+    {
+      "name": "nmme0-tmp2m-34w__nasa0",
+      "importance": 2309.0
+    },
+    {
+      "name": "gfdl0",
+      "importance": 2218.0
+    },
+    {
+      "name": "nmme-prate-56w__ccsm3",
+      "importance": 2188.0
+    },
+    {
+      "name": "contest-pevpr-sfc-gauss-14d__pevpr",
+      "importance": 2180.0
+    },
+    {
+      "name": "contest-rhum-sig995-14d__rhum",
+      "importance": 2175.0
+    },
+    {
+      "name": "nasa0",
+      "importance": 2112.0
+    },
+    {
+      "name": "nmme0-tmp2m-34w__cfsv20",
+      "importance": 2098.0
+    },
+    {
+      "name": "contest-wind-h500-14d__wind-hgt-500",
+      "importance": 2093.0
+    },
+    {
+      "name": "nmme0-tmp2m-34w__cancm40",
+      "importance": 2065.0
+    },
+    {
+      "name": "nmme0-tmp2m-34w__cancm30",
+      "importance": 2017.0
+    },
+    {
+      "name": "cfsv20",
+      "importance": 2004.0
+    },
+    {
+      "name": "cancm40",
+      "importance": 1916.0
+    }
+  ],
+  "total_features": 20,
+  "model_type": "LightGBM"
+}

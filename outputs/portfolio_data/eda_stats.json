@@ -1,0 +1,38 @@
+{
+  "dataset": {
+    "train_rows": 375734,
+    "total_features": 242,
+    "date_range": "1/1/15 to 9/9/15",
+    "unique_locations": 514
+  },
+  "target": {
+    "mean": 11.86,
+    "std": 9.87,
+    "min": -20.36,
+    "max": 37.24,
+    "median": 12.29
+  },
+  "missing_values": {
+    "total_missing": 101772,
+    "features_with_missing": 8,
+    "max_missing_pct": 4.24
+  },
+  "climate_regions": [
+    "BSh",
+    "Cfa",
+    "BSk",
+    "BWk",
+    "BWh",
+    "Csa",
+    "Csb",
+    "Cfb",
+    "Dfb",
+    "Dsc",
+    "Dfc",
+    "Dfa",
+    "Dsb",
+    "Dwa",
+    "Dwb"
+  ],
+  "seasonal_patterns": {}
+}

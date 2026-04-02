@@ -1,0 +1,1406 @@
+{
+  "samples": [
+    {
+      "actual": -9.0703,
+      "predicted": -9.7488,
+      "error": 0.6784,
+      "month": 1,
+      "startdate": "1/30/15"
+    },
+    {
+      "actual": 0.1121,
+      "predicted": 0.1716,
+      "error": -0.0595,
+      "month": 2,
+      "startdate": "2/3/16"
+    },
+    {
+      "actual": -6.1248,
+      "predicted": -5.9111,
+      "error": -0.2137,
+      "month": 2,
+      "startdate": "2/20/15"
+    },
+    {
+      "actual": 6.2507,
+      "predicted": 6.1243,
+      "error": 0.1264,
+      "month": 2,
+      "startdate": "2/17/16"
+    },
+    {
+      "actual": 1.5337,
+      "predicted": 1.2477,
+      "error": 0.286,
+      "month": 12,
+      "startdate": "12/4/15"
+    },
+    {
+      "actual": 9.7818,
+      "predicted": 9.3209,
+      "error": 0.461,
+      "month": 2,
+      "startdate": "2/3/16"
+    },
+    {
+      "actual": -11.8185,
+      "predicted": -11.1833,
+      "error": -0.6351,
+      "month": 12,
+      "startdate": "12/30/15"
+    },
+    {
+      "actual": -0.8543,
+      "predicted": -1.1461,
+      "error": 0.2918,
+      "month": 1,
+      "startdate": "1/3/15"
+    },
+    {
+      "actual": 3.5779,
+      "predicted": 3.3199,
+      "error": 0.258,
+      "month": 1,
+      "startdate": "1/16/15"
+    },
+    {
+      "actual": 10.4922,
+      "predicted": 10.4013,
+      "error": 0.0908,
+      "month": 12,
+      "startdate": "12/1/14"
+    },
+    {
+      "actual": 0.8995,
+      "predicted": 1.1531,
+      "error": -0.2536,
+      "month": 1,
+      "startdate": "1/14/15"
+    },
+    {
+      "actual": 10.7508,
+      "predicted": 10.9548,
+      "error": -0.204,
+      "month": 1,
+      "startdate": "1/17/16"
+    },
+    {
+      "actual": -4.8053,
+      "predicted": -4.854,
+      "error": 0.0487,
+      "month": 12,
+      "startdate": "12/15/15"
+    },
+    {
+      "actual": -6.4034,
+      "predicted": -6.2769,
+      "error": -0.1266,
+      "month": 12,
+      "startdate": "12/26/14"
+    },
+    {
+      "actual": 8.7219,
+      "predicted": 8.8561,
+      "error": -0.1343,
+      "month": 2,
+      "startdate": "2/4/15"
+    },
+    {
+      "actual": 7.2333,
+      "predicted": 6.7742,
+      "error": 0.4591,
+      "month": 2,
+      "startdate": "2/14/16"
+    },
+    {
+      "actual": 0.3525,
+      "predicted": 0.4784,
+      "error": -0.1259,
+      "month": 12,
+      "startdate": "12/2/15"
+    },
+    {
+      "actual": 11.9346,
+      "predicted": 11.7115,
+      "error": 0.2231,
+      "month": 1,
+      "startdate": "1/20/16"
+    },
+    {
+      "actual": -9.7319,
+      "predicted": -9.3022,
+      "error": -0.4297,
+      "month": 1,
+      "startdate": "1/2/15"
+    },
+    {
+      "actual": -0.3601,
+      "predicted": -1.0739,
+      "error": 0.7138,
+      "month": 1,
+      "startdate": "1/9/15"
+    },
+    {
+      "actual": 5.5699,
+      "predicted": 5.5959,
+      "error": -0.026,
+      "month": 2,
+      "startdate": "2/4/15"
+    },
+    {
+      "actual": -1.8096,
+      "predicted": -1.8281,
+      "error": 0.0184,
+      "month": 1,
+      "startdate": "1/18/16"
+    },
+    {
+      "actual": -1.8939,
+      "predicted": -2.5459,
+      "error": 0.6519,
+      "month": 1,
+      "startdate": "1/15/15"
+    },
+    {
+      "actual": 8.4324,
+      "predicted": 8.3186,
+      "error": 0.1138,
+      "month": 2,
+      "startdate": "2/14/16"
+    },
+    {
+      "actual": 10.9168,
+      "predicted": 10.7827,
+      "error": 0.1341,
+      "month": 2,
+      "startdate": "2/17/15"
+    },
+    {
+      "actual": -5.8542,
+      "predicted": -6.0691,
+      "error": 0.2149,
+      "month": 12,
+      "startdate": "12/9/14"
+    },
+    {
+      "actual": -4.376,
+      "predicted": -4.2799,
+      "error": -0.0961,
+      "month": 1,
+      "startdate": "1/26/16"
+    },
+    {
+      "actual": -1.2941,
+      "predicted": -1.611,
+      "error": 0.3169,
+      "month": 12,
+      "startdate": "12/1/15"
+    },
+    {
+      "actual": 4.1816,
+      "predicted": 4.0825,
+      "error": 0.0991,
+      "month": 2,
+      "startdate": "2/14/15"
+    },
+    {
+      "actual": 0.805,
+      "predicted": 0.6351,
+      "error": 0.1699,
+      "month": 2,
+      "startdate": "2/20/15"
+    },
+    {
+      "actual": -4.5763,
+      "predicted": -4.067,
+      "error": -0.5093,
+      "month": 1,
+      "startdate": "1/31/15"
+    },
+    {
+      "actual": 2.3816,
+      "predicted": 2.2365,
+      "error": 0.145,
+      "month": 2,
+      "startdate": "2/25/15"
+    },
+    {
+      "actual": 8.1175,
+      "predicted": 7.6106,
+      "error": 0.5069,
+      "month": 2,
+      "startdate": "2/16/15"
+    },
+    {
+      "actual": 1.401,
+      "predicted": 1.678,
+      "error": -0.277,
+      "month": 1,
+      "startdate": "1/27/15"
+    },
+    {
+      "actual": 5.4867,
+      "predicted": 5.4325,
+      "error": 0.0542,
+      "month": 1,
+      "startdate": "1/15/15"
+    },
+    {
+      "actual": -8.4914,
+      "predicted": -8.5958,
+      "error": 0.1044,
+      "month": 12,
+      "startdate": "12/28/15"
+    },
+    {
+      "actual": 6.8235,
+      "predicted": 7.6263,
+      "error": -0.8028,
+      "month": 2,
+      "startdate": "2/16/16"
+    },
+    {
+      "actual": -11.1124,
+      "predicted": -11.1913,
+      "error": 0.0789,
+      "month": 12,
+      "startdate": "12/21/15"
+    },
+    {
+      "actual": -1.2635,
+      "predicted": -2.1918,
+      "error": 0.9283,
+      "month": 1,
+      "startdate": "1/12/15"
+    },
+    {
+      "actual": -5.1274,
+      "predicted": -5.0445,
+      "error": -0.0829,
+      "month": 1,
+      "startdate": "1/18/16"
+    },
+    {
+      "actual": -12.6083,
+      "predicted": -12.8202,
+      "error": 0.2119,
+      "month": 12,
+      "startdate": "12/28/15"
+    },
+    {
+      "actual": 1.9468,
+      "predicted": 1.8909,
+      "error": 0.0559,
+      "month": 2,
+      "startdate": "2/14/16"
+    },
+    {
+      "actual": -4.5515,
+      "predicted": -4.5037,
+      "error": -0.0478,
+      "month": 12,
+      "startdate": "12/16/15"
+    },
+    {
+      "actual": -7.3084,
+      "predicted": -7.5759,
+      "error": 0.2675,
+      "month": 12,
+      "startdate": "12/23/15"
+    },
+    {
+      "actual": 11.5267,
+      "predicted": 11.3645,
+      "error": 0.1621,
+      "month": 2,
+      "startdate": "2/1/15"
+    },
+    {
+      "actual": 3.9599,
+      "predicted": 4.0518,
+      "error": -0.0919,
+      "month": 2,
+      "startdate": "2/15/16"
+    },
+    {
+      "actual": 0.1751,
+      "predicted": 0.8219,
+      "error": -0.6469,
+      "month": 12,
+      "startdate": "12/12/14"
+    },
+    {
+      "actual": 4.2897,
+      "predicted": 4.6003,
+      "error": -0.3106,
+      "month": 12,
+      "startdate": "12/2/15"
+    },
+    {
+      "actual": 1.0628,
+      "predicted": 1.275,
+      "error": -0.2122,
+      "month": 12,
+      "startdate": "12/8/14"
+    },
+    {
+      "actual": -3.8745,
+      "predicted": -3.9922,
+      "error": 0.1176,
+      "month": 1,
+      "startdate": "1/22/16"
+    },
+    {
+      "actual": 15.6145,
+      "predicted": 15.7595,
+      "error": -0.145,
+      "month": 4,
+      "startdate": "4/26/16"
+    },
+    {
+      "actual": 14.1025,
+      "predicted": 14.0028,
+      "error": 0.0996,
+      "month": 4,
+      "startdate": "4/29/16"
+    },
+    {
+      "actual": 1.2419,
+      "predicted": 0.9736,
+      "error": 0.2682,
+      "month": 3,
+      "startdate": "3/20/16"
+    },
+    {
+      "actual": 12.0237,
+      "predicted": 11.8029,
+      "error": 0.2208,
+      "month": 4,
+      "startdate": "4/21/16"
+    },
+    {
+      "actual": 17.6391,
+      "predicted": 17.6214,
+      "error": 0.0177,
+      "month": 4,
+      "startdate": "4/2/16"
+    },
+    {
+      "actual": 14.1373,
+      "predicted": 14.0391,
+      "error": 0.0982,
+      "month": 5,
+      "startdate": "5/15/16"
+    },
+    {
+      "actual": 7.7592,
+      "predicted": 8.1421,
+      "error": -0.3829,
+      "month": 4,
+      "startdate": "4/5/16"
+    },
+    {
+      "actual": 12.2912,
+      "predicted": 12.5468,
+      "error": -0.2556,
+      "month": 4,
+      "startdate": "4/30/15"
+    },
+    {
+      "actual": 13.8983,
+      "predicted": 13.7792,
+      "error": 0.1191,
+      "month": 5,
+      "startdate": "5/8/15"
+    },
+    {
+      "actual": 13.5445,
+      "predicted": 12.6244,
+      "error": 0.9201,
+      "month": 5,
+      "startdate": "5/19/16"
+    },
+    {
+      "actual": 22.8784,
+      "predicted": 22.5615,
+      "error": 0.3169,
+      "month": 5,
+      "startdate": "5/18/15"
+    },
+    {
+      "actual": 21.0598,
+      "predicted": 21.1861,
+      "error": -0.1263,
+      "month": 3,
+      "startdate": "3/25/16"
+    },
+    {
+      "actual": 14.0804,
+      "predicted": 14.4644,
+      "error": -0.384,
+      "month": 5,
+      "startdate": "5/16/16"
+    },
+    {
+      "actual": 11.9683,
+      "predicted": 11.521,
+      "error": 0.4473,
+      "month": 4,
+      "startdate": "4/15/15"
+    },
+    {
+      "actual": 13.4435,
+      "predicted": 13.3633,
+      "error": 0.0802,
+      "month": 4,
+      "startdate": "4/27/16"
+    },
+    {
+      "actual": 9.013,
+      "predicted": 8.543,
+      "error": 0.47,
+      "month": 4,
+      "startdate": "4/20/16"
+    },
+    {
+      "actual": 17.8956,
+      "predicted": 17.7229,
+      "error": 0.1727,
+      "month": 4,
+      "startdate": "4/12/16"
+    },
+    {
+      "actual": 14.8765,
+      "predicted": 15.1542,
+      "error": -0.2777,
+      "month": 5,
+      "startdate": "5/23/16"
+    },
+    {
+      "actual": 11.7717,
+      "predicted": 12.0966,
+      "error": -0.3249,
+      "month": 5,
+      "startdate": "5/16/16"
+    },
+    {
+      "actual": 19.6208,
+      "predicted": 19.5144,
+      "error": 0.1064,
+      "month": 5,
+      "startdate": "5/13/15"
+    },
+    {
+      "actual": 20.0323,
+      "predicted": 20.146,
+      "error": -0.1137,
+      "month": 5,
+      "startdate": "5/24/15"
+    },
+    {
+      "actual": 25.4956,
+      "predicted": 25.3061,
+      "error": 0.1895,
+      "month": 5,
+      "startdate": "5/20/15"
+    },
+    {
+      "actual": 11.2842,
+      "predicted": 11.0727,
+      "error": 0.2115,
+      "month": 4,
+      "startdate": "4/14/15"
+    },
+    {
+      "actual": 3.2618,
+      "predicted": 4.567,
+      "error": -1.3051,
+      "month": 3,
+      "startdate": "3/29/16"
+    },
+    {
+      "actual": 9.3677,
+      "predicted": 9.4488,
+      "error": -0.0811,
+      "month": 4,
+      "startdate": "4/1/16"
+    },
+    {
+      "actual": 2.3072,
+      "predicted": 2.0132,
+      "error": 0.294,
+      "month": 3,
+      "startdate": "3/15/16"
+    },
+    {
+      "actual": 8.0633,
+      "predicted": 7.8746,
+      "error": 0.1886,
+      "month": 3,
+      "startdate": "3/13/16"
+    },
+    {
+      "actual": 18.9636,
+      "predicted": 18.052,
+      "error": 0.9116,
+      "month": 4,
+      "startdate": "4/3/16"
+    },
+    {
+      "actual": 6.7681,
+      "predicted": 6.4745,
+      "error": 0.2936,
+      "month": 3,
+      "startdate": "3/3/15"
+    },
+    {
+      "actual": 11.935,
+      "predicted": 11.5613,
+      "error": 0.3737,
+      "month": 4,
+      "startdate": "4/10/15"
+    },
+    {
+      "actual": 10.046,
+      "predicted": 10.0666,
+      "error": -0.0205,
+      "month": 5,
+      "startdate": "5/12/15"
+    },
+    {
+      "actual": -0.1997,
+      "predicted": 0.3184,
+      "error": -0.5181,
+      "month": 3,
+      "startdate": "3/18/15"
+    },
+    {
+      "actual": 12.106,
+      "predicted": 11.7613,
+      "error": 0.3447,
+      "month": 4,
+      "startdate": "4/30/16"
+    },
+    {
+      "actual": 14.863,
+      "predicted": 14.446,
+      "error": 0.4171,
+      "month": 3,
+      "startdate": "3/21/15"
+    },
+    {
+      "actual": 17.0273,
+      "predicted": 16.9421,
+      "error": 0.0852,
+      "month": 4,
+      "startdate": "4/15/15"
+    },
+    {
+      "actual": 13.3446,
+      "predicted": 13.5407,
+      "error": -0.1962,
+      "month": 5,
+      "startdate": "5/17/16"
+    },
+    {
+      "actual": 4.3871,
+      "predicted": 4.9375,
+      "error": -0.5504,
+      "month": 3,
+      "startdate": "3/1/16"
+    },
+    {
+      "actual": 5.5753,
+      "predicted": 5.6384,
+      "error": -0.0631,
+      "month": 3,
+      "startdate": "3/7/16"
+    },
+    {
+      "actual": 17.4385,
+      "predicted": 17.4509,
+      "error": -0.0124,
+      "month": 3,
+      "startdate": "3/11/15"
+    },
+    {
+      "actual": 10.5156,
+      "predicted": 10.7838,
+      "error": -0.2683,
+      "month": 4,
+      "startdate": "4/20/16"
+    },
+    {
+      "actual": 9.039,
+      "predicted": 8.9331,
+      "error": 0.1059,
+      "month": 3,
+      "startdate": "3/30/16"
+    },
+    {
+      "actual": 6.7856,
+      "predicted": 6.4093,
+      "error": 0.3763,
+      "month": 3,
+      "startdate": "3/2/15"
+    },
+    {
+      "actual": 13.1546,
+      "predicted": 12.8205,
+      "error": 0.3341,
+      "month": 5,
+      "startdate": "5/13/16"
+    },
+    {
+      "actual": 19.5849,
+      "predicted": 19.5383,
+      "error": 0.0465,
+      "month": 5,
+      "startdate": "5/29/16"
+    },
+    {
+      "actual": 14.4598,
+      "predicted": 14.6399,
+      "error": -0.1801,
+      "month": 4,
+      "startdate": "4/27/16"
+    },
+    {
+      "actual": 12.5791,
+      "predicted": 12.5703,
+      "error": 0.0088,
+      "month": 3,
+      "startdate": "3/17/16"
+    },
+    {
+      "actual": 9.4652,
+      "predicted": 9.631,
+      "error": -0.1658,
+      "month": 5,
+      "startdate": "5/3/16"
+    },
+    {
+      "actual": 12.5337,
+      "predicted": 12.6691,
+      "error": -0.1354,
+      "month": 4,
+      "startdate": "4/17/15"
+    },
+    {
+      "actual": 13.0216,
+      "predicted": 12.765,
+      "error": 0.2566,
+      "month": 4,
+      "startdate": "4/20/15"
+    },
+    {
+      "actual": 7.5794,
+      "predicted": 7.6662,
+      "error": -0.0868,
+      "month": 4,
+      "startdate": "4/5/16"
+    },
+    {
+      "actual": 25.0715,
+      "predicted": 25.3934,
+      "error": -0.3219,
+      "month": 7,
+      "startdate": "7/27/16"
+    },
+    {
+      "actual": 17.3086,
+      "predicted": 17.5143,
+      "error": -0.2058,
+      "month": 7,
+      "startdate": "7/30/16"
+    },
+    {
+      "actual": 19.0257,
+      "predicted": 19.0827,
+      "error": -0.057,
+      "month": 6,
+      "startdate": "6/20/16"
+    },
+    {
+      "actual": 26.6699,
+      "predicted": 26.5475,
+      "error": 0.1224,
+      "month": 7,
+      "startdate": "7/22/16"
+    },
+    {
+      "actual": 29.7508,
+      "predicted": 29.6988,
+      "error": 0.0521,
+      "month": 7,
+      "startdate": "7/3/16"
+    },
+    {
+      "actual": 18.7019,
+      "predicted": 18.7005,
+      "error": 0.0014,
+      "month": 8,
+      "startdate": "8/15/16"
+    },
+    {
+      "actual": 18.4354,
+      "predicted": 18.4844,
+      "error": -0.0491,
+      "month": 7,
+      "startdate": "7/6/16"
+    },
+    {
+      "actual": 21.1269,
+      "predicted": 21.4217,
+      "error": -0.2948,
+      "month": 7,
+      "startdate": "7/31/15"
+    },
+    {
+      "actual": 22.9783,
+      "predicted": 22.829,
+      "error": 0.1493,
+      "month": 8,
+      "startdate": "8/8/15"
+    },
+    {
+      "actual": 19.1835,
+      "predicted": 18.0462,
+      "error": 1.1373,
+      "month": 8,
+      "startdate": "8/19/16"
+    },
+    {
+      "actual": 28.1152,
+      "predicted": 28.2194,
+      "error": -0.1042,
+      "month": 8,
+      "startdate": "8/18/15"
+    },
+    {
+      "actual": 34.7437,
+      "predicted": 34.6969,
+      "error": 0.0468,
+      "month": 6,
+      "startdate": "6/25/16"
+    },
+    {
+      "actual": 18.9318,
+      "predicted": 19.3273,
+      "error": -0.3956,
+      "month": 8,
+      "startdate": "8/16/16"
+    },
+    {
+      "actual": 20.8672,
+      "predicted": 20.6987,
+      "error": 0.1685,
+      "month": 7,
+      "startdate": "7/16/15"
+    },
+    {
+      "actual": 17.5325,
+      "predicted": 17.9142,
+      "error": -0.3817,
+      "month": 7,
+      "startdate": "7/28/16"
+    },
+    {
+      "actual": 21.3918,
+      "predicted": 21.3822,
+      "error": 0.0096,
+      "month": 7,
+      "startdate": "7/21/16"
+    },
+    {
+      "actual": 29.1928,
+      "predicted": 29.0918,
+      "error": 0.101,
+      "month": 7,
+      "startdate": "7/13/16"
+    },
+    {
+      "actual": 18.5997,
+      "predicted": 18.998,
+      "error": -0.3983,
+      "month": 8,
+      "startdate": "8/23/16"
+    },
+    {
+      "actual": 17.9211,
+      "predicted": 17.8223,
+      "error": 0.0988,
+      "month": 8,
+      "startdate": "8/16/16"
+    },
+    {
+      "actual": 27.844,
+      "predicted": 27.5802,
+      "error": 0.2639,
+      "month": 8,
+      "startdate": "8/13/15"
+    },
+    {
+      "actual": 19.3348,
+      "predicted": 19.8217,
+      "error": -0.4869,
+      "month": 8,
+      "startdate": "8/24/15"
+    },
+    {
+      "actual": 27.3157,
+      "predicted": 27.7344,
+      "error": -0.4187,
+      "month": 8,
+      "startdate": "8/20/15"
+    },
+    {
+      "actual": 23.9726,
+      "predicted": 23.9425,
+      "error": 0.0301,
+      "month": 7,
+      "startdate": "7/15/15"
+    },
+    {
+      "actual": 18.2096,
+      "predicted": 18.819,
+      "error": -0.6094,
+      "month": 6,
+      "startdate": "6/29/16"
+    },
+    {
+      "actual": 17.349,
+      "predicted": 17.1714,
+      "error": 0.1775,
+      "month": 7,
+      "startdate": "7/2/16"
+    },
+    {
+      "actual": 21.1615,
+      "predicted": 20.5552,
+      "error": 0.6063,
+      "month": 6,
+      "startdate": "6/15/16"
+    },
+    {
+      "actual": 17.4625,
+      "predicted": 17.5812,
+      "error": -0.1187,
+      "month": 6,
+      "startdate": "6/13/16"
+    },
+    {
+      "actual": 29.6903,
+      "predicted": 29.7879,
+      "error": -0.0977,
+      "month": 7,
+      "startdate": "7/4/16"
+    },
+    {
+      "actual": 20.4797,
+      "predicted": 20.6141,
+      "error": -0.1345,
+      "month": 6,
+      "startdate": "6/3/15"
+    },
+    {
+      "actual": 22.2853,
+      "predicted": 21.9953,
+      "error": 0.29,
+      "month": 7,
+      "startdate": "7/11/15"
+    },
+    {
+      "actual": 20.0919,
+      "predicted": 19.7273,
+      "error": 0.3646,
+      "month": 8,
+      "startdate": "8/12/15"
+    },
+    {
+      "actual": 18.1341,
+      "predicted": 18.2579,
+      "error": -0.1238,
+      "month": 6,
+      "startdate": "6/18/15"
+    },
+    {
+      "actual": 21.6113,
+      "predicted": 21.4752,
+      "error": 0.1361,
+      "month": 7,
+      "startdate": "7/31/16"
+    },
+    {
+      "actual": 27.1242,
+      "predicted": 27.0981,
+      "error": 0.0261,
+      "month": 6,
+      "startdate": "6/21/15"
+    },
+    {
+      "actual": 29.3202,
+      "predicted": 29.1942,
+      "error": 0.1259,
+      "month": 7,
+      "startdate": "7/16/15"
+    },
+    {
+      "actual": 19.4089,
+      "predicted": 19.3672,
+      "error": 0.0418,
+      "month": 8,
+      "startdate": "8/17/16"
+    },
+    {
+      "actual": 18.822,
+      "predicted": 19.1554,
+      "error": -0.3333,
+      "month": 6,
+      "startdate": "6/1/16"
+    },
+    {
+      "actual": 15.0834,
+      "predicted": 14.8778,
+      "error": 0.2056,
+      "month": 6,
+      "startdate": "6/7/16"
+    },
+    {
+      "actual": 26.6098,
+      "predicted": 26.9198,
+      "error": -0.31,
+      "month": 6,
+      "startdate": "6/11/15"
+    },
+    {
+      "actual": 22.1359,
+      "predicted": 22.2774,
+      "error": -0.1415,
+      "month": 7,
+      "startdate": "7/21/16"
+    },
+    {
+      "actual": 16.9851,
+      "predicted": 17.0136,
+      "error": -0.0285,
+      "month": 6,
+      "startdate": "6/30/16"
+    },
+    {
+      "actual": 19.6212,
+      "predicted": 20.1424,
+      "error": -0.5212,
+      "month": 6,
+      "startdate": "6/2/15"
+    },
+    {
+      "actual": 20.5875,
+      "predicted": 20.3226,
+      "error": 0.2649,
+      "month": 8,
+      "startdate": "8/13/16"
+    },
+    {
+      "actual": 19.2892,
+      "predicted": 18.9215,
+      "error": 0.3678,
+      "month": 8,
+      "startdate": "8/29/16"
+    },
+    {
+      "actual": 25.3455,
+      "predicted": 25.4237,
+      "error": -0.0782,
+      "month": 7,
+      "startdate": "7/28/16"
+    },
+    {
+      "actual": 27.8983,
+      "predicted": 27.6869,
+      "error": 0.2113,
+      "month": 6,
+      "startdate": "6/17/16"
+    },
+    {
+      "actual": 19.5356,
+      "predicted": 19.2466,
+      "error": 0.289,
+      "month": 8,
+      "startdate": "8/3/16"
+    },
+    {
+      "actual": 25.8796,
+      "predicted": 25.8074,
+      "error": 0.0722,
+      "month": 7,
+      "startdate": "7/18/15"
+    },
+    {
+      "actual": 24.5761,
+      "predicted": 24.409,
+      "error": 0.1671,
+      "month": 7,
+      "startdate": "7/21/15"
+    },
+    {
+      "actual": 21.3802,
+      "predicted": 21.1721,
+      "error": 0.2081,
+      "month": 7,
+      "startdate": "7/6/16"
+    },
+    {
+      "actual": 26.6967,
+      "predicted": 26.7276,
+      "error": -0.0309,
+      "month": 9,
+      "startdate": "9/8/15"
+    },
+    {
+      "actual": 12.6598,
+      "predicted": 12.5998,
+      "error": 0.06,
+      "month": 10,
+      "startdate": "10/17/15"
+    },
+    {
+      "actual": 12.1524,
+      "predicted": 11.9668,
+      "error": 0.1857,
+      "month": 9,
+      "startdate": "9/14/15"
+    },
+    {
+      "actual": 9.8416,
+      "predicted": 9.4572,
+      "error": 0.3844,
+      "month": 11,
+      "startdate": "11/17/15"
+    },
+    {
+      "actual": 11.7047,
+      "predicted": 11.2543,
+      "error": 0.4504,
+      "month": 10,
+      "startdate": "10/30/14"
+    },
+    {
+      "actual": 2.854,
+      "predicted": 2.9537,
+      "error": -0.0997,
+      "month": 10,
+      "startdate": "10/29/14"
+    },
+    {
+      "actual": 9.8372,
+      "predicted": 9.6331,
+      "error": 0.2042,
+      "month": 10,
+      "startdate": "10/19/15"
+    },
+    {
+      "actual": 15.8845,
+      "predicted": 15.9208,
+      "error": -0.0362,
+      "month": 9,
+      "startdate": "9/14/14"
+    },
+    {
+      "actual": 21.0203,
+      "predicted": 21.0602,
+      "error": -0.0399,
+      "month": 10,
+      "startdate": "10/9/14"
+    },
+    {
+      "actual": 15.4132,
+      "predicted": 15.1721,
+      "error": 0.2411,
+      "month": 10,
+      "startdate": "10/7/15"
+    },
+    {
+      "actual": 2.647,
+      "predicted": 2.3979,
+      "error": 0.2492,
+      "month": 11,
+      "startdate": "11/19/14"
+    },
+    {
+      "actual": 18.2719,
+      "predicted": 18.0097,
+      "error": 0.2622,
+      "month": 9,
+      "startdate": "9/9/15"
+    },
+    {
+      "actual": 4.2545,
+      "predicted": 4.1807,
+      "error": 0.0738,
+      "month": 11,
+      "startdate": "11/24/14"
+    },
+    {
+      "actual": 9.6442,
+      "predicted": 9.8593,
+      "error": -0.2151,
+      "month": 11,
+      "startdate": "11/27/14"
+    },
+    {
+      "actual": 8.7573,
+      "predicted": 9.5065,
+      "error": -0.7491,
+      "month": 10,
+      "startdate": "10/16/15"
+    },
+    {
+      "actual": 14.3411,
+      "predicted": 13.9286,
+      "error": 0.4124,
+      "month": 9,
+      "startdate": "9/13/14"
+    },
+    {
+      "actual": 6.2023,
+      "predicted": 6.0981,
+      "error": 0.1042,
+      "month": 10,
+      "startdate": "10/19/15"
+    },
+    {
+      "actual": 9.6887,
+      "predicted": 9.9353,
+      "error": -0.2466,
+      "month": 9,
+      "startdate": "9/22/15"
+    },
+    {
+      "actual": 4.7457,
+      "predicted": 4.5595,
+      "error": 0.1862,
+      "month": 10,
+      "startdate": "10/22/14"
+    },
+    {
+      "actual": 13.0247,
+      "predicted": 12.9196,
+      "error": 0.1051,
+      "month": 10,
+      "startdate": "10/6/15"
+    },
+    {
+      "actual": 15.9698,
+      "predicted": 15.9249,
+      "error": 0.045,
+      "month": 9,
+      "startdate": "9/19/14"
+    },
+    {
+      "actual": 15.8872,
+      "predicted": 16.1067,
+      "error": -0.2195,
+      "month": 9,
+      "startdate": "9/7/14"
+    },
+    {
+      "actual": 2.7967,
+      "predicted": 2.5517,
+      "error": 0.245,
+      "month": 11,
+      "startdate": "11/1/15"
+    },
+    {
+      "actual": 9.2453,
+      "predicted": 8.9485,
+      "error": 0.2968,
+      "month": 11,
+      "startdate": "11/12/14"
+    },
+    {
+      "actual": 3.0863,
+      "predicted": 3.3259,
+      "error": -0.2397,
+      "month": 11,
+      "startdate": "11/8/15"
+    },
+    {
+      "actual": -4.0352,
+      "predicted": -3.5586,
+      "error": -0.4766,
+      "month": 11,
+      "startdate": "11/22/15"
+    },
+    {
+      "actual": 5.2247,
+      "predicted": 4.7393,
+      "error": 0.4854,
+      "month": 11,
+      "startdate": "11/11/14"
+    },
+    {
+      "actual": 4.5103,
+      "predicted": 4.4549,
+      "error": 0.0554,
+      "month": 11,
+      "startdate": "11/1/15"
+    },
+    {
+      "actual": 20.5339,
+      "predicted": 20.5192,
+      "error": 0.0147,
+      "month": 9,
+      "startdate": "9/17/14"
+    },
+    {
+      "actual": 11.5117,
+      "predicted": 11.597,
+      "error": -0.0853,
+      "month": 10,
+      "startdate": "10/21/15"
+    },
+    {
+      "actual": 16.101,
+      "predicted": 16.1937,
+      "error": -0.0927,
+      "month": 10,
+      "startdate": "10/23/15"
+    },
+    {
+      "actual": 6.9417,
+      "predicted": 6.9037,
+      "error": 0.0379,
+      "month": 10,
+      "startdate": "10/13/15"
+    },
+    {
+      "actual": 0.3763,
+      "predicted": 0.6233,
+      "error": -0.247,
+      "month": 11,
+      "startdate": "11/13/14"
+    },
+    {
+      "actual": 14.4575,
+      "predicted": 14.0104,
+      "error": 0.447,
+      "month": 11,
+      "startdate": "11/2/15"
+    },
+    {
+      "actual": 7.7068,
+      "predicted": 7.727,
+      "error": -0.0202,
+      "month": 10,
+      "startdate": "10/25/14"
+    },
+    {
+      "actual": 18.1004,
+      "predicted": 18.3977,
+      "error": -0.2974,
+      "month": 9,
+      "startdate": "9/26/14"
+    },
+    {
+      "actual": 16.2032,
+      "predicted": 16.3327,
+      "error": -0.1295,
+      "month": 9,
+      "startdate": "9/14/15"
+    },
+    {
+      "actual": 12.9126,
+      "predicted": 13.057,
+      "error": -0.1444,
+      "month": 10,
+      "startdate": "10/6/14"
+    },
+    {
+      "actual": 12.7494,
+      "predicted": 13.1914,
+      "error": -0.442,
+      "month": 9,
+      "startdate": "9/4/14"
+    },
+    {
+      "actual": 9.9161,
+      "predicted": 9.7696,
+      "error": 0.1465,
+      "month": 10,
+      "startdate": "10/25/15"
+    },
+    {
+      "actual": 11.0421,
+      "predicted": 10.9771,
+      "error": 0.0649,
+      "month": 10,
+      "startdate": "10/9/15"
+    },
+    {
+      "actual": 17.3688,
+      "predicted": 16.9998,
+      "error": 0.3691,
+      "month": 9,
+      "startdate": "9/18/14"
+    },
+    {
+      "actual": 4.7218,
+      "predicted": 4.6813,
+      "error": 0.0405,
+      "month": 10,
+      "startdate": "10/25/15"
+    },
+    {
+      "actual": 14.092,
+      "predicted": 13.919,
+      "error": 0.173,
+      "month": 10,
+      "startdate": "10/3/14"
+    },
+    {
+      "actual": 0.0048,
+      "predicted": -0.745,
+      "error": 0.7498,
+      "month": 11,
+      "startdate": "11/2/14"
+    },
+    {
+      "actual": 7.8255,
+      "predicted": 8.0844,
+      "error": -0.2589,
+      "month": 11,
+      "startdate": "11/21/14"
+    },
+    {
+      "actual": 13.92,
+      "predicted": 14.3853,
+      "error": -0.4653,
+      "month": 11,
+      "startdate": "11/5/15"
+    },
+    {
+      "actual": 20.7045,
+      "predicted": 20.5478,
+      "error": 0.1567,
+      "month": 9,
+      "startdate": "9/12/14"
+    },
+    {
+      "actual": 9.2975,
+      "predicted": 9.7031,
+      "error": -0.4056,
+      "month": 10,
+      "startdate": "10/21/14"
+    },
+    {
+      "actual": 4.3779,
+      "predicted": 4.1388,
+      "error": 0.2391,
+      "month": 11,
+      "startdate": "11/4/15"
+    }
+  ],
+  "sample_size": 200,
+  "sampling_method": "stratified_by_season"
+}

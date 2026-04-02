@@ -1,0 +1,18 @@
+{
+  "lightgbm": {
+    "rmse": 0.3376,
+    "mae": 0.264,
+    "r2": 0.9988
+  },
+  "baseline_nmme_mean": {
+    "rmse": 3.419,
+    "mae": 2.7532,
+    "r2": 0.88
+  },
+  "improvement": {
+    "rmse_reduction_pct": 90.13,
+    "mae_reduction_pct": 90.41
+  },
+  "cv_folds": 5,
+  "training_samples": 375734
+}
